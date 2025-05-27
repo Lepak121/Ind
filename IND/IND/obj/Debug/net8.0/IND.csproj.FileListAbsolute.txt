@@ -1,0 +1,14 @@
+C:\Users\rezer\Desktop\PGI\IND\IND\bin\Debug\net8.0\IND.exe
+C:\Users\rezer\Desktop\PGI\IND\IND\bin\Debug\net8.0\IND.deps.json
+C:\Users\rezer\Desktop\PGI\IND\IND\bin\Debug\net8.0\IND.runtimeconfig.json
+C:\Users\rezer\Desktop\PGI\IND\IND\bin\Debug\net8.0\IND.dll
+C:\Users\rezer\Desktop\PGI\IND\IND\bin\Debug\net8.0\IND.pdb
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.AssemblyInfoInputs.cache
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.AssemblyInfo.cs
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.dll
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\refint\IND.dll
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.pdb
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\IND.genruntimeconfig.cache
+C:\Users\rezer\Desktop\PGI\IND\IND\obj\Debug\net8.0\ref\IND.dll
